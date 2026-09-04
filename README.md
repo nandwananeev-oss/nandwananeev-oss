@@ -1,10 +1,10 @@
 # Hi, I'm Neev Nandwana
 
-I am a first-year B.Tech CSE student currently pursuing my degree in Cybersecurity and Digital Forensics. I am interested in learning programming, exploring new technologies, and building practical projects that can enhance my skills.
+I am a Second-year B.Tech CSE student currently pursuing my degree in Cybersecurity and Digital Forensics. I am interested in learning programming, exploring new technologies, and building practical projects that can enhance my skills.
 
 ## About Me
 
-- First-year undergraduate student  
+- Second-year undergraduate student  
 - Interested in software development and problem-solving  
 - Currently learning the fundamentals of programming and digital technologies  
 - Eager to build projects and gain real-world experience  
